@@ -39,7 +39,7 @@ html,body {height: 100%;}
 body {
 	font: 13px/22px Arial, sans-serif;
 	background: #002b36;
-	background: -webkit-gradient(linear,left top,left bottom,from(#eee),to(#ccc),color-stop(0.25,#fff)) fixed no-repeat 0 100%;
+	background: -webkit-gradient(linear,left top,left bottom,from(#002b36),to(#93a1a1),color-stop(0.25,#fff)) fixed no-repeat 0 100%;
 	margin: 0;
 }
 
