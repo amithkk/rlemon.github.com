@@ -68,6 +68,7 @@ article{margin-bottom:10px;}
 
 #less{padding-top:25px;clear:both;}
 #less a{
+background-color: #deddcd;
 display:block;
 	-webkit-transition-duration: 0.75s;
 	-moz-transition-duration:0.75s;
