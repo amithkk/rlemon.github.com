@@ -145,7 +145,7 @@ h3 {
 }
 
 a{color:#58c;text-decoration:none}
-a:hover{color:#990000;}
+a:hover{color:#d23681;}
 
 
 footer {
@@ -227,7 +227,7 @@ border-top:1px solid #666;padding:10px;clear:both;
 	
 }
 .articles a:hover h2{color:#58a}
-.articles a:hover .browser{color:#666}
+.articles a:hover .footnote{color:#d23681}
 
 
 
